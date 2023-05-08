@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": "../Form-Validator"
+		},
+		{
+			"path": "../profile-avatar"
+		},
+		{
+			"path": "../Weather"
+		},
+		{
+			"path": "../Todos-List"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "json-server"
+	}
+}

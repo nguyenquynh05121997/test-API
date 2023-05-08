@@ -1,0 +1,19 @@
+{
+  "person": [
+    {
+      "name": "nguyen van kloi",
+      "age": "23",
+      "id": 1
+    },
+    {
+      "name": "dao thi hoa",
+      "age": "54",
+      "id": 2
+    },
+    {
+      "name": "nguyen van long",
+      "age": "21",
+      "id": 3
+    }
+  ]
+}
